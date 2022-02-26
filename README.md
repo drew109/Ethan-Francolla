@@ -21,20 +21,16 @@
 
 ------
 
-#### Hello, my name is Sam, and I'm an aspiring developer in the United States
+#### Hello, my name is Ethan, and I'm an aspiring developer in the United States
 #### Feel free to add me on any of the socials linked
-
-<!--- I use FreeBSD, btw. --->
 
 <br /> 
 
 ### What programming languages am I learning?
 
-<!--- This is a bunch of images with their corresponding links, if there is a more organized way to do this dm me pls, Salmon#2355 --->
-
-<a href="https://www.java.com/en/download/help/whatis_java.html">
+<a href="https://www.python.org/">
     <img align="left" alt="Java" width="30px" height="30" 
-         src="https://github.com/Scherso/Scherso/blob/main/assets/java.svg">
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20100317150552">
 </a>
 
 <a href="https://www.gnu.org/software/bash/">
