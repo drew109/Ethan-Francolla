@@ -1,8 +1,8 @@
-<!--- Special thanks to Sam for letting me modify this config file for my personal use https://github.com/Scherso/Scherso--->
+<!--- Special thanks to my friend Sam for letting me modify this config file for my personal use https://github.com/Scherso/Scherso--->
 
 <img 
      align="left" alt="Avatar" width="200px" 
-          src="https://github.com/Scherso/Scherso/blob/main/assets/Scherso.png" 
+          src="https://github.com/Ethan-Francolla/Profile/main/assets/pfp.jpg" 
 />
 
 ### 👋 Hey there, I'm a highschool student and aspiring developer
@@ -21,7 +21,7 @@
 
 ------
 
-#### Hello, my name is Ethan, and I'm an aspiring developer in the United States
+#### Hello, my name is Ethan, and I'm an aspiring aerospace engineer in the United States
 #### Feel free to add me on any of the socials linked
 
 <br /> 
