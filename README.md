@@ -11,12 +11,7 @@
 
 <a href="https://discordapp.com/users/492816296103378948">
      <img align="left" alt="Discord"
-          src="https://img.shields.io/badge/-Salmon%232355-5865F2?&style=flat-square&logo=discord&logoColor=white">
-</a>
-       
-<a href="https://open.spotify.com/user/7xiu2hms0kghfyn9b2iw91dms?si=QyYfNVUVQQ-E89r2sDZXHA">
-    <img align="left" alt="Spotify" 
-         src="https://img.shields.io/badge/-sam-1DB954?&style=flat-square&logo=spotify&logoColor=white">
+          src="https://img.shields.io/badge/-Firestorm%231000-5865F2?&style=flat-square&logo=discord&logoColor=white">
 </a>
 
 ------
@@ -29,12 +24,12 @@
 ### What programming languages am I learning?
 
 <a href="https://www.python.org/">
-    <img align="left" alt="Java" width="30px" height="30" 
+    <img align="left" alt="Python" width="30px" height="30" 
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20100317150552">
 </a>
 
 <a href="https://www.cplusplus.com/">
-    <img align="left" alt="Bash" width="30" height="30" 
+    <img align="left" alt="C++" width="30" height="30" 
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 </a>
 
