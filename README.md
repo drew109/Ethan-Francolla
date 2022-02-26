@@ -33,9 +33,9 @@
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20100317150552">
 </a>
 
-<a href="https://www.gnu.org/software/bash/">
+<a href="https://www.cplusplus.com/">
     <img align="left" alt="Bash" width="30" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 </a>
 
 <a href="https://javascript.com/">
