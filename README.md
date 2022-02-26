@@ -54,7 +54,7 @@
 
 <a href="https://www.typescriptlang.org/">
     <img align="left" alt="TypeScript" width="30" height="30" 
-         src="https://github.com/Scherso/Scherso/blob/main/assets/ts.png" />
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
 </a> 
 
 <br />
