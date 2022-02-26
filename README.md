@@ -3,7 +3,7 @@
 <!--- Avatar --->
 <img 
      align="left" alt="Avatar" width="200px" 
-          src="https://github.com/Ethan-Francolla/Profile/blob/main/assets/pfp.jpg" 
+          src="https://avatars.githubusercontent.com/u/86384943?v=4" 
 />
 
 ### 🚀 Hey there, I'm an aspiring aerospace engineer 🚀
