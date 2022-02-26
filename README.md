@@ -76,11 +76,3 @@
 <br />
 
 ----
-
-<br />
-<br />
-
-<a href="https://www.freebsd.org/">
-     <img align="left" alt="FreeBSD" width"25px" height="25"
-          src="https://github.com/Scherso/Scherso/blob/main/assets/bsd.png">
-</a>
