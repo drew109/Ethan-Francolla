@@ -5,7 +5,7 @@
           src="https://github.com/Ethan-Francolla/Profile/blob/main/assets/pfp.jpg" 
 />
 
-### 🚀 Hey there, I'm a highschool student and aspiring aerospace engineer 🚀
+### 🚀 Hey there, I'm an aspiring aerospace engineer 🚀
 <!--- Drawing the Spotify and Discord logos behind the page break, href is a link to the corresponding links. --->
 
 <a href="https://discordapp.com/users/492816296103378948">
@@ -15,7 +15,7 @@
 
 ------
 
-#### Hello, my name is Ethan, and I'm an aspiring aerospace engineer in the United States
+#### Hello, my name is Ethan, and I'm a highschool student in the United States
 #### Feel free to add me on any of the above social media
 
 <br /> 
@@ -44,7 +44,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img align="left" alt="CSS" width="30" height="30" 
-         src="https://storage.needpix.com/rsynced_images/logo-2582747_1280.png" />
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 </a>
 
 <a href="https://javascript.com/">
