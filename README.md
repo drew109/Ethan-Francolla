@@ -112,7 +112,6 @@
 ----
 
 <br />
-<br />
 
 <!--- Anaconda --->
 <a href="https://www.anaconda.com/">
