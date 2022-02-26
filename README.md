@@ -17,7 +17,7 @@
 ------
 
 #### Hello, my name is Ethan, and I'm an aspiring aerospace engineer in the United States
-#### Feel free to add me on any of the socials linked
+#### Feel free to add me on any of the above social media
 
 <br /> 
 
