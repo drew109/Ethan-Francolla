@@ -5,8 +5,7 @@
           src="https://github.com/Ethan-Francolla/Profile/blob/main/assets/pfp.jpg" 
 />
 
-### 👋 Hey there, I'm a highschool student and aspiring developer
-
+### 👋 Hey there, I'm a highschool student and aspiring aerospace engineer
 <!--- Drawing the Spotify and Discord logos behind the page break, href is a link to the corresponding links. --->
 
 <a href="https://discordapp.com/users/492816296103378948">
