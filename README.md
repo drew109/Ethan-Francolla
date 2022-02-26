@@ -104,7 +104,7 @@
 <!--- Spyder --->
 <a href="https://www.spyder-ide.org/">
     <img align="left" height="30" 
-         src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png">
+         src="https://www.nicepng.com/png/detail/935-9355899_spyder-icon.png">
 </a>
 
 <br />
