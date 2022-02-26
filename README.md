@@ -101,6 +101,12 @@
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png">
 </a>
 
+<!--- Spyder --->
+<a href="https://www.spyder-ide.org/">
+    <img align="left" height="30" 
+         src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png">
+</a>
+
 <br />
 
 ----
