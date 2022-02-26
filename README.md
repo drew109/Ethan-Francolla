@@ -110,3 +110,12 @@
 <br />
 
 ----
+
+<br />
+<br />
+
+<!--- Anaconda --->
+<a href="https://www.anaconda.com/">
+     <img align="left" alt="FreeBSD" width"25px" height="25"
+          src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">
+</a>
