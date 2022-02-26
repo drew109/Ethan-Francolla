@@ -2,7 +2,7 @@
 
 <img 
      align="left" alt="Avatar" width="200px" 
-          src="https://github.com/Ethan-Francolla/Profile/main/assets/pfp.jpg" 
+          src="https://github.com/Ethan-Francolla/Profile/blob/main/assets/pfp.jpg" 
 />
 
 ### 👋 Hey there, I'm a highschool student and aspiring developer
