@@ -56,9 +56,9 @@
 
 ----
 
-<a href="https://github.com/Scherso/Scherso">
+<a href="https://github.com/Ethan-Francolla/Profile">
     <img align="right" alt="Github Stats"
-         src="https://github-readme-stats.vercel.app/api?username=Scherso&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
+         src="https://github-readme-stats.vercel.app/api?username=Ethan-Francolla&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
 </a>
 
 ### What IDEs do I use?
@@ -84,8 +84,3 @@
      <img align="left" alt="FreeBSD" width"25px" height="25"
           src="https://github.com/Scherso/Scherso/blob/main/assets/bsd.png">
 </a>
-
-<!---
-Scherso/Scherso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
