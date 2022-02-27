@@ -1,4 +1,5 @@
 <!--- Special thanks to my friend Sam for giving me permission to modify this config file for my personal use https://github.com/Scherso/Scherso--->
+<!--- If someone else wants to modify this config file for their personal use, please credit both Sam and myself --->
 
 <!--- Avatar --->
 <img 
