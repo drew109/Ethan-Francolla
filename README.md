@@ -146,5 +146,5 @@
 <!--- Linux --->
 <a href="https://www.linux.org/">
      <img align="left" alt="FreeBSD" width"25px" height="25"
-          src="https://e7.pngegg.com/pngimages/351/186/png-clipart-linux-tux-linux-logo-silhouette.png">
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 </a>
