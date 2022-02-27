@@ -111,7 +111,7 @@
 
 ----
 
-### My favorite applications and platforms
+### Applications & platforms I use
 
 <!--- Anaconda --->
 <a href="https://www.anaconda.com/">
