@@ -136,3 +136,15 @@
      <img align="left" alt="FreeBSD" width"25px" height="25"
           src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png">
 </a>
+
+<!--- Git --->
+<a href="https://git-scm.com/">
+     <img align="left" alt="FreeBSD" width"25px" height="25"
+          src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+</a>
+
+<!--- Linux --->
+<a href="https://www.linux.org/">
+     <img align="left" alt="FreeBSD" width"25px" height="25"
+          src="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux.png">
+</a>
