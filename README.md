@@ -127,36 +127,36 @@
 
 <!--- Anaconda --->
 <a href="https://www.anaconda.com/">
-     <img align="left" alt="FreeBSD" width"25px" height="25"
+     <img align="left" alt="Anaconda" width"25px" height="25"
           src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">
 </a>
 
 <!--- GitHub --->
 <a href="https://github.com/">
-     <img align="left" alt="FreeBSD" width"25px" height="25"
+     <img align="left" alt="GitHub" width"25px" height="25"
           src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
 </a>
 
 <!--- GitPod --->
 <a href="https://www.gitpod.io/">
-     <img align="left" alt="FreeBSD" width"25px" height="25"
+     <img align="left" alt="GitPod" width"25px" height="25"
           src="https://community.gitpod.io/uploads/default/original/2X/4/4cfe88cf2b5a748b624fca9f50b781c5cc018d29.png">
 </a>
 
 <!--- TensorFlow --->
 <a href="https://www.tensorflow.org/">
-     <img align="left" alt="FreeBSD" width"25px" height="25"
+     <img align="left" alt="TensorFlow" width"25px" height="25"
           src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png">
 </a>
 
 <!--- Git --->
 <a href="https://git-scm.com/">
-     <img align="left" alt="FreeBSD" width"25px" height="25"
+     <img align="left" alt="Git" width"25px" height="25"
           src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </a>
 
 <!--- Linux --->
 <a href="https://www.linux.org/">
-     <img align="left" alt="FreeBSD" width"25px" height="25"
+     <img align="left" alt="Linux" width"25px" height="25"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 </a>
