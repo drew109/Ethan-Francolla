@@ -53,6 +53,12 @@
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 </a>
 
+<!--- Java --->
+<a href="https://www.java.com/en/">
+    <img align="left" alt="Java" width="30" height="30" 
+         src="https://logowiki.net/uploads/logo/j/java-14.svg" />
+</a>
+
 <!--- JavaScript --->
 <a href="https://javascript.com/">
     <img align="left" alt="JavaScript" width="30" height="30" 
