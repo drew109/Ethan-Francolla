@@ -29,6 +29,12 @@
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20100317150552">
 </a>
 
+<!--- C --->
+<a href="https://devdocs.io/c/">
+    <img align="left" alt="C" width="30" height="30" 
+         src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+</a>
+
 <!--- C++ --->
 <a href="https://www.cplusplus.com/">
     <img align="left" alt="C++" width="30" height="30" 
