@@ -118,3 +118,21 @@
      <img align="left" alt="FreeBSD" width"25px" height="25"
           src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">
 </a>
+
+<!--- GitHub --->
+<a href="https://github.com/">
+     <img align="left" alt="FreeBSD" width"25px" height="25"
+          src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
+</a>
+
+<!--- GitPod --->
+<a href="https://www.gitpod.io/">
+     <img align="left" alt="FreeBSD" width"25px" height="25"
+          src="https://community.gitpod.io/uploads/default/original/2X/4/4cfe88cf2b5a748b624fca9f50b781c5cc018d29.png">
+</a>
+
+<!--- TensorFlow --->
+<a href="https://www.tensorflow.org/">
+     <img align="left" alt="FreeBSD" width"25px" height="25"
+          src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png">
+</a>
