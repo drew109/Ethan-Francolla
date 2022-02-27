@@ -21,7 +21,7 @@
 
 <br /> 
 
-### What programming languages am I learning?
+### Programming languages I'm learning
 
 <!--- Python --->
 <a href="https://www.python.org/">
@@ -75,7 +75,7 @@
          src="https://github-readme-stats.vercel.app/api?username=Ethan-Francolla&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
 </a>
 
-### What IDEs do I use?
+### IDEs I use
 
 <!--- IDEA --->
 <a href="https://www.jetbrains.com/idea/">
@@ -111,7 +111,7 @@
 
 ----
 
-<br />
+### My favorite applications and platforms
 
 <!--- Anaconda --->
 <a href="https://www.anaconda.com/">
