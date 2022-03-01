@@ -18,7 +18,7 @@
 ------
 
 #### Hello, my name is Ethan, and I'm a highschool student in the United States
-#### Feel free to add me on any of the above social media
+#### Feel free to add me on any of the linked socials or check out my repos
 
 <br /> 
 
