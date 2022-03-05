@@ -9,10 +9,16 @@
 
 ### 🚀 Hey there, I'm an aspiring aerospace engineer 🚀
 
-<!--- Drawing the logos behind the page break, href is a link to the corresponding links. --->
+<!--- Discord --->
 <a href="https://discordapp.com/users/398537836468633600">
      <img align="left" alt="Discord"
           src="https://img.shields.io/badge/-Firestorm%231000-5865F2?&style=flat-square&logo=discord&logoColor=white">
+</a>
+
+<!--- LeetCode --->
+<a href="https://leetcode.com/FireStorm1812/">
+     <img align="left" alt="LeetCode"
+          src="https://img.shields.io/badge/-Firestorm1812-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 </a>
 
 ------
