@@ -15,18 +15,6 @@
           src="https://img.shields.io/badge/-Firestorm%231000-5865F2?&style=flat-square&logo=discord&logoColor=white">
 </a>
 
-<!--- GitHub --->
-<a href="https://github.com/Ethan-Francolla">
-     <img align="left" alt="GitHub"
-          src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<!--- LeetCode --->
-<a href="https://leetcode.com/FireStorm1812/">
-     <img align="left" alt="LeetCode"
-          src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-</a>
-
 ------
 
 #### Hello, my name is Ethan, and I'm a highschool student in the United States
