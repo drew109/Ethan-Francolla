@@ -159,5 +159,5 @@
 <!--- NodeJS --->
 <a href="https://nodejs.org/en/">
      <img align="left" alt="Linux" width"25px" height="25"
-          src="https://pngset.com/images/nodejs-logo-logodix-symbol-pattern-sphere-adventure-transparent-png-2876881.png">
+          src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
 </a>
