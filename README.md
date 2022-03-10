@@ -26,7 +26,7 @@
 
 <!--- Python --->
 <a href="https://www.python.org/">
-    <img align="left" alt="Python" width="30px" height="30" 
+    <img align="left" alt="Python" width="30" height="30" 
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20100317150552">
 </a>
 
@@ -38,7 +38,7 @@
 
 <!--- C Sharp --->
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img align="left" alt="CSharp" width="30" height="30" 
+    <img align="left" alt="C#" width="30" height="30" 
          src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 </a>
 
