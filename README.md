@@ -123,7 +123,7 @@
 <!--- Anaconda --->
 <a href="https://www.anaconda.com/">
      <img align="left" alt="Anaconda" width"25" height="25"
-          src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">
+          src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png">
 </a>
 
 <!--- NodeJS --->
