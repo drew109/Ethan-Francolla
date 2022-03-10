@@ -122,7 +122,7 @@
 
 <!--- Anaconda --->
 <a href="https://www.anaconda.com/">
-     <img align="left" alt="Anaconda" width="25" height="25"
+     <img align="left" alt="Anaconda" width"25" height="25"
           src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">
 </a>
 
