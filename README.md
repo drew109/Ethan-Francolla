@@ -60,6 +60,12 @@
          src="https://logowiki.net/uploads/logo/j/java-14.svg" />
 </a>
 
+<!--- NodeJS --->
+<a href="https://nodejs.org/en/">
+     <img align="left" alt="NodeJS" width="30" height="30"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</a>
+
 <!--- JavaScript --->
 <a href="https://javascript.com/">
     <img align="left" alt="JavaScript" width="30" height="30" 
