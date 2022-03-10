@@ -45,13 +45,13 @@
 <!--- HTML --->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img align="left" alt="HTML" width="30" height="30" 
-         src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </a>
 
 <!--- CSS --->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img align="left" alt="CSS" width="30" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </a>
 
 <!--- Java --->
